@@ -1,0 +1,75 @@
+body{
+
+background-image:url('https://user-images.githubusercontent.com/61387329/78279860-758c1100-7518-11ea-87cd-37cc230d513a.png');
+list-style-type:none;
+}
+
+h1{
+   text-align:center;
+   color:red;
+}
+
+h2{
+	color:red;
+	text-align:center;
+}
+p{
+  text-align:center;
+  font-size:22px;
+  color:black;
+  
+}
+.a1{
+	
+	text-align:center;
+	color:red;
+	margin:-100px 700px;
+}
+
+.b1{
+	
+	text-align:center;
+	color:red;
+	margin:-20px 550px;
+}
+
+.a3{
+	color:blue;
+}
+.a{
+	width:50px;
+	height:50px;
+	margin:10px 50px;
+}
+
+.b{
+	width:50px;
+	height:50px;
+	margin:10px -100px;
+	
+	
+}
+
+ 
+ .navbar1 a {
+  float: left;
+  padding: 2px;
+  color: purple;
+  text-decoration: none;
+  font-size: 20px;
+  width: 23%;  /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc..  */ 
+  text-align: center; 
+  margin:20px 0;/* If you want the text to be centered */
+}
+ /* Add a background color on mouse-over  */
+.navbar1 a:hover {
+  background-color: #000;
+  font-size:14;
+}
+
+ /* Style the current/active link  */
+.navbar1 a.active {
+  background-color: #4CAF64;
+}
+
+
